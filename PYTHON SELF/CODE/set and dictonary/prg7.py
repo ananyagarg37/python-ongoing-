@@ -1,0 +1,21 @@
+# write a programm to input eight number form user and display all unique number once .
+set = set()
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+n = input()
+set.add(int(n))
+# main point: int banakar set banaya hai to add ke andar int(n) lagega
+
+print(set)
